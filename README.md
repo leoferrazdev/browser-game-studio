@@ -53,6 +53,10 @@ The profiles are operational summaries, not copied manuals. Each profile include
 
 Use [GitHub Issues](https://github.com/leoferrazdev/browser-game-studio/issues) for reproducible bugs, reusable feature requests, and dated platform requirement changes. See [`docs/feedback-and-validation.md`](docs/feedback-and-validation.md) before opening an issue.
 
+## Stable release
+
+The first stable public release is [v0.1.0](https://github.com/leoferrazdev/browser-game-studio/releases/tag/v0.1.0). See [`CHANGELOG.md`](CHANGELOG.md) for its scope and verification evidence.
+
 ## Scope
 
 The core workflow can later receive adapters for Unity, Godot, GameMaker, or Unreal. Those adapters are not bundled until their browser export behavior and release requirements are validated independently.
