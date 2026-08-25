@@ -49,6 +49,10 @@ The auditor checks for a root `index.html`, total package size, and known cross-
 
 The profiles are operational summaries, not copied manuals. Each profile includes a source and a revalidation warning. Treat portal documentation as volatile.
 
+## Feedback
+
+Use [GitHub Issues](https://github.com/leoferrazdev/browser-game-studio/issues) for reproducible bugs, reusable feature requests, and dated platform requirement changes. See [`docs/feedback-and-validation.md`](docs/feedback-and-validation.md) before opening an issue.
+
 ## Scope
 
 The core workflow can later receive adapters for Unity, Godot, GameMaker, or Unreal. Those adapters are not bundled until their browser export behavior and release requirements are validated independently.
