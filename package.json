@@ -1,0 +1,14 @@
+{
+  "name": "browser-game-studio",
+  "version": "0.1.0",
+  "description": "Reusable AI-assisted workflow and local release auditor for browser games.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "audit:release": "node tools/audit-release.mjs"
+  }
+}

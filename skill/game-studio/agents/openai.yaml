@@ -1,0 +1,3 @@
+interface:
+  display_name: "Game Studio"
+  short_description: "Engine-agnostic game development workflow"
